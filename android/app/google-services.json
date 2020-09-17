@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591318489525",
+    "firebase_url": "https://constitution-of-nepal-176d2.firebaseio.com",
+    "project_id": "constitution-of-nepal-176d2",
+    "storage_bucket": "constitution-of-nepal-176d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591318489525:android:293940023b10179b5321fc",
+        "android_client_info": {
+          "package_name": "com.nepal.constitution.santoshThapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591318489525-utnm964tb2ofvqtrhlbgfm065je60kod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgY4EoV2oWnVqHZwrbiIlxnQMTOYb2VcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591318489525-utnm964tb2ofvqtrhlbgfm065je60kod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
